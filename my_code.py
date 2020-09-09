@@ -5,4 +5,4 @@
 
 x = input ("What is your name: ")
 y = input ("How old are you: ")
-print("Hi " + x + ". You are " + y + " years old.")
+print("Hi " + x + "! You are " + y + " years old.")
